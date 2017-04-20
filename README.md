@@ -12,3 +12,5 @@ Features:
 - Save tasks in a file. So it can be shown later even after closing the software.
 - Show completed tasks.
 - Show removed tasks.
+
+![alt tag](https://raw.githubusercontent.com/sapayth/ToDo6/master/images/Picture1.jpg)
