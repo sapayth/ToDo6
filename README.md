@@ -15,3 +15,9 @@ Features:
 
 Main Page
 ![alt tag](https://raw.githubusercontent.com/sapayth/ToDo6/master/images/Picture1.jpg)
+
+Task Removed
+![alt tag](https://raw.githubusercontent.com/sapayth/ToDo6/master/images/Picture3.jpg)
+
+Task Completed
+![alt tag](https://raw.githubusercontent.com/sapayth/ToDo6/master/images/Picture2.jpg)
