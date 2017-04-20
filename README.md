@@ -13,4 +13,5 @@ Features:
 - Show completed tasks.
 - Show removed tasks.
 
+Main Page
 ![alt tag](https://raw.githubusercontent.com/sapayth/ToDo6/master/images/Picture1.jpg)
